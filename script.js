@@ -9,7 +9,7 @@
 // CONFIGURATION
 // ============================================
 const CONFIG = {
-    API_URL: 'https://script.google.com/macros/s/AKfycbz2UJ8kWQYlz_BUBNS8mSE0OLMPnRtK9-q6iOCPg4b99rzjBRVvEHUDAuTbU9xAcw33NA/exec',
+    API_URL: 'https://script.google.com/macros/s/AKfycbwvsGOptFJ9K8nDoB27I188-AxM2x22Uem0UotC2YWGv3G-gKF3KmQOlA2jk3GUPqRT/exec',
     APP_NAME: 'AttendanceMS',
     VERSION: '2.0.0',
     SESSION_TIMEOUT: 30 * 60 * 1000, // 30 minutes inactivity
